@@ -4,7 +4,7 @@
 		<title lang="EN">Remote Home Assistant</title>
 	</details>	
 	<plugins>
-		<plugin name="Assistant" version="0.1" minTarget="7.6" maxTarget="*">
+		<plugin name="Assistant" version="0.2" minTarget="7.6" maxTarget="*">
 			<title lang="EN">Assistant</title>
 			<desc lang="EN">Remote controlling entities in Home Assistant.</desc>
 			<creator>Hans Karlinius</creator>

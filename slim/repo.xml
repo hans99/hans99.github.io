@@ -4,13 +4,13 @@
 		<title lang="EN">Remote Home Assistant</title>
 	</details>	
 	<plugins>
-		<plugin name="Assistant" version="0.4" minTarget="7.6" maxTarget="*">
+		<plugin name="Assistant" version="0.5" minTarget="7.6" maxTarget="*">
 			<title lang="EN">Assistant</title>
 			<desc lang="EN">Remote controlling entities in Home Assistant.</desc>
 			<creator>Hans Karlinius</creator>
 			<email>hans.karlinius@live.com</email>
 			<url>https://hans99.github.io/slim/Assistant-0.4.zip</url>
-			<sha>f7a388058a2b50ba8eb0fcd3b6028f28d6942a1b</sha>
+			<sha>c0aef4264a8406cf0502a8cae97c00a9ccc093e7</sha>
 		</plugin>
 	</plugins>
 </extensions>

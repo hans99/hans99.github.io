@@ -9,7 +9,7 @@
 			<desc lang="EN">Remote controlling entities in Home Assistant.</desc>
 			<creator>Hans Karlinius</creator>
 			<email>hans.karlinius@live.com</email>
-			<url>https://hans99.github.io/slim/Assistant-0.4.zip</url>
+			<url>https://hans99.github.io/slim/Assistant-0.5.zip</url>
 			<sha>c0aef4264a8406cf0502a8cae97c00a9ccc093e7</sha>
 		</plugin>
 	</plugins>
